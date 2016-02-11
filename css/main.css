@@ -1,21 +1,21 @@
 body {
-    background-color: #ffffff; /* white */
+    background-color: #40b4bc; /* aqua */
 }
 
-@media screen and (min-width: 675px) {
+@media screen and (max-width: 1080px) {
     body {
-        background-color: #a7dbdb; /* light blue */
+        background-color: #565554; /* gray */
     }
 }
 
-@media screen and (min-width: 999px) {
+@media screen and (max-width: 550px) {
     body {
-        background-color: #e0e4cc; /* light green */
+        background-color: #2e86ab; /* blue */
     }
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (max-width: 400px) {
     body {
-        background-color: #e8802e; /* orange */
+        background-color: #f6f5ae; /* yellow */
     }
 }
